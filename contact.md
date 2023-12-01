@@ -1,5 +1,5 @@
 ---
-title: OnlineLegalCourier.com Contact and Working Hours.
+title: OnlineLegalCourier.com Contact & Working Hours.
 layout: contact
 description: Contact
 ---
